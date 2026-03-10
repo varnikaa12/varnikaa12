@@ -1,6 +1,6 @@
 # Hi I'm Varnikaa Arora
 
-### Senior in college studying CS and statistics
+### Senior at PSU studying CS and statistics
 
 - 🔭 I'm currently working on **Deep Neurosymbolic Learning architecture with a modular ML pipeline in Python.**
 
